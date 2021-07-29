@@ -1,5 +1,5 @@
 # Counter-Project
 
-Pass the message project. **PREVIEW:** https://counter-javascript-project.netlify.app/
+Counter Project. **PREVIEW:** https://counter-javascript-project.netlify.app/
 
 Made by Billy with ♥
